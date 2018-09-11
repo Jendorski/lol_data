@@ -1,0 +1,111 @@
+[ {
+  "mapName": "The Twisted Treeline",
+  "image": {
+    "full": "map10.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 0
+  },
+  "mapId": 10
+}, {
+  "mapName": "Summoner's Rift",
+  "image": {
+    "full": "map11.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 48
+  },
+  "mapId": 11
+}, {
+  "mapName": "Howling Abyss",
+  "image": {
+    "full": "map12.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 96
+  },
+  "mapId": 12
+}, {
+  "mapName": "Nexus Blitz",
+  "image": {
+    "full": "map21.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 144
+  },
+  "mapId": 21
+}, {
+  "mapName": "Crystal Scar",
+  "image": {
+    "full": "map8.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 0
+  },
+  "mapId": 8
+},{
+  "mapName": "WIP Update",
+  "image": {
+    "full": "map9.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 240
+  },
+  "mapId": 9
+},{
+  "mapName": "New TwistedTreeline",
+  "image": {
+    "full": "map10.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 48
+  },
+  "mapId": 10
+}, {
+  "mapName": "New Summoners Rift",
+  "image": {
+    "full": "map11.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 192
+  },
+  "mapId": 11
+}, {
+  "mapName": "New Proving Grounds",
+  "image": {
+    "full": "map12.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 96
+  },
+  "mapId": 12
+}
+
+]

@@ -1,0 +1,84 @@
+{
+    "data": {
+        "1": {
+            "mapName": "SummonersRift",
+            "image": {
+                "full": "map1.png",
+                "group": "map",
+                "sprite": "map0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 144
+            },
+            "mapId": 1
+        },
+        "8": {
+            "mapName": "CrystalScar",
+            "image": {
+                "full": "map8.png",
+                "group": "map",
+                "sprite": "map0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 0
+            },
+            "mapId": 8
+        },
+        "9": {
+            "mapName": "WIPUpdate",
+            "image": {
+                "full": "map9.png",
+                "group": "map",
+                "sprite": "map0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 240
+            },
+            "mapId": 9
+        },
+        "10": {
+            "mapName": "NewTwistedTreeline",
+            "image": {
+                "full": "map10.png",
+                "group": "map",
+                "sprite": "map0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 48
+            },
+            "mapId": 10
+        },
+        "11": {
+            "mapName": "SummonersRiftNew",
+            "image": {
+                "full": "map11.png",
+                "group": "map",
+                "sprite": "map0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 192
+            },
+            "mapId": 11
+        },
+        "12": {
+            "mapName": "ProvingGroundsNew",
+            "image": {
+                "full": "map12.png",
+                "group": "map",
+                "sprite": "map0.png",
+                "h": 48,
+                "w": 48,
+                "y": 0,
+                "x": 96
+            },
+            "mapId": 12
+        }
+    },
+    "version": "6.24.1",
+    "type": "map"
+}
