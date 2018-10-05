@@ -106,6 +106,18 @@
     "x": 96
   },
   "mapId": 12
+},{
+  "mapName": "Cosmic Ruins",
+  "image": {
+    "full": "map11.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 48
+  },
+  "mapId": 16
 }
 
 ]
