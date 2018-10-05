@@ -22,6 +22,54 @@
     "x": 48
   },
   "mapId": 11
+},{
+  "mapName": "Proving Grounds",
+  "image": {
+    "full": "map3.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 48
+  },
+  "mapId": 3
+},{
+  "mapName": "Butcher's Bridge",
+  "image": {
+    "full": "map14.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 48
+  },
+  "mapId": 14
+},{
+  "mapName": "Valoran City Park",
+  "image": {
+    "full": "map18.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 48
+  },
+  "mapId": 18
+},{
+  "mapName": "Substructure 43",
+  "image": {
+    "full": "map19.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 48
+  },
+  "mapId": 19
 }, {
   "mapName": "Howling Abyss",
   "image": {
@@ -119,5 +167,5 @@
   },
   "mapId": 16
 }
-
+ 
 ]
