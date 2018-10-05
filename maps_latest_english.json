@@ -35,6 +35,18 @@
   },
   "mapId": 3
 },{
+  "mapName": "Crash Site",
+  "image": {
+    "full": "map20.png",
+    "group": "map",
+    "sprite": "map0.png",
+    "h": 48,
+    "w": 48,
+    "y": 0,
+    "x": 48
+  },
+  "mapId": 20
+},{
   "mapName": "Butcher's Bridge",
   "image": {
     "full": "map14.png",
