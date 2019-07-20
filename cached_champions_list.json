@@ -1142,5 +1142,21 @@
     "active": true,
     "freeToPlay": false,
     "id": 518
+  },
+    {
+    "rankedPlayEnabled": true,
+    "botEnabled": true,
+    "botMmEnabled": true,
+    "active": true,
+    "freeToPlay": false,
+    "id": 246
+  },
+  {
+    "rankedPlayEnabled": true,
+    "botEnabled": true,
+    "botMmEnabled": true,
+    "active": true,
+    "freeToPlay": false,
+    "id": 350
   }
 ]
