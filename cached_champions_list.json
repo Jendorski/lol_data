@@ -1157,6 +1157,14 @@
     "botMmEnabled": true,
     "active": true,
     "freeToPlay": false,
+    "id": 875
+  },
+    {
+    "rankedPlayEnabled": true,
+    "botEnabled": true,
+    "botMmEnabled": true,
+    "active": true,
+    "freeToPlay": false,
     "id": 523
   },
   {
